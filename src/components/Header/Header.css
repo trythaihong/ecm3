@@ -19,13 +19,13 @@
 .header-container h2 {
   font-weight: 500;
   font-style: italic;
-  color: white;
+  color: tomato;
   font-weight: bold;
   font-size: max(4.5vw, 22px);
 }
 .header-container p {
   font-family: sans-serif;
-  color: white;
+  color: tomato;
   font-size: 1vw;
 }
 .header-container button {
